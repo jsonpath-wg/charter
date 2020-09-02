@@ -19,7 +19,7 @@ used in a variety of applications which rely on JSON message
 formats.
 
 JSONPath was originally described by Stefan Goessner [1] but has
-never had an official specification of any kind, and
+never had an official specification of any kind, and the 39+
 implementations, while mostly compatible, differ in certain
 behaviors.
 
