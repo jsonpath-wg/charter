@@ -23,14 +23,14 @@ never had an official specification of any kind, and the 39+
 implementations, while mostly compatible, differ in certain
 behaviors.
 
+Other, incompatible approaches exist, such as RFC 6901 JSON Pointer
+(single position, very limited selectors) or JMESPath (rich, fully
+specified), but have not succeeded in supplanting JSONPath.
+
 The WG will develop a standards-track JSONPath specification, with the
 primary goal of capturing the common semantics of existing
 implementations and, where there are differences, choosing
 semantics with the goal of causing the least disruption among
 JSONPath users.
-
-The latter goal rules out the alternatives of adopting standards such
-as RFC 6901 JSON Pointer (functionally poorer than JSONPath) or
-JMESPath (functionally richer than, but incompatible with, JSONPath).
 
 [1] https://goessner.net/articles/JsonPath/
