@@ -26,6 +26,9 @@ behaviors.
 Other, incompatible approaches exist, such as RFC 6901 JSON Pointer
 (single position, very limited selectors) or JMESPath (rich, fully
 specified), but have not succeeded in supplanting JSONPath.
+These approaches are out of scope for the WG, except that it may be
+useful to describe the mapping between subsets of JSON Pointer and
+JSONPath.
 
 The WG will develop a standards-track JSONPath specification, with the
 primary goal of capturing the common semantics of existing
